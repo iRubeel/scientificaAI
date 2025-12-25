@@ -1,0 +1,8 @@
+{
+    "track_id": "frontend_refactor_20251220",
+    "type": "refactor",
+    "status": "new",
+    "created_at": "2025-12-20T00:00:00Z",
+    "updated_at": "2025-12-20T00:00:00Z",
+    "description": "Refactor the existing flow, for now it uses streamlit, instead of that i want to use nextjs and react to modernize the existing flow and how the user interacts with our product"
+}
